@@ -1,0 +1,25 @@
+QPushButton{
+    background-color: #931621;
+    font-size: 20pt;
+    font: "Times New Roman";
+    Border-Radius: 10px;
+}
+QMainWindow{
+    background-color: #342e37;
+}
+QLabel{
+    font-size: 20pt;
+    color: #fe4a49;
+    font: "Times New Roman";
+}
+QLineEdit{
+    font-size: 20pt;
+    font: "Times New Roman";
+    Border-Radius: 10px;
+}
+QTextEdit{
+    font-size: 15pt;
+    font: "Times New Roman";
+    border: 10px solid "#931621";
+    border-radius: 20px;
+}
